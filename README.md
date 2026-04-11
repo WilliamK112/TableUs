@@ -14,7 +14,7 @@ TableUs is built to reduce that friction: it **learns how each person likes to e
 
 ## Inspiration
 
-The product takes cues from **social, taste-forward dining apps** (e.g. *Yumi*-style flows): natural language as the main interface, a **visual “orbit”** of nearby spots, and a **friends layer** so group plans aren’t a one-size-fits-all ranking. The goal is a **hackathon-grade demo** that feels like a coherent product: profile → friends → location → search → ranked, explainable picks.
+The product takes cues from **social, taste-forward dining apps**: natural language as the main interface, a **visual “orbit”** of nearby spots, and a **friends layer** so group plans aren’t a one-size-fits-all ranking. The goal is a **hackathon-grade demo** that feels like a coherent product: profile → friends → location → search → ranked, explainable picks.
 
 ---
 
