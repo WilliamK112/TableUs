@@ -1,7 +1,7 @@
 # TableUs
 
 <p align="center">
-  <img src="./assets/image+tableus/image-icon.png" alt="TableUs logo" width="180" />
+  <img src="./assets/image+tableus/image-icon.png" alt="TableUs logo" width="320" />
 </p>
 
 AI-assisted restaurant discovery for **eating out with friends**—without the group chat spiral over “where should we go?”
