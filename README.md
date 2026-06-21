@@ -1,6 +1,6 @@
 # TableUs
 
-Built by [William Kang (Ching-Wei Kang)](https://williamkang.com/) - [portfolio and identity page](https://williamkang.com/about-william-kang.html).
+Built by [William Kang (Ching-Wei Kang)](https://williamkang.com/) - [portfolio and identity page](https://williamkang.com/about-william-kang.html) - [projects profile](https://williamkang.com/william-kang-projects.html).
 
 <p align="center">
   <img src="./assets/image+tableus/image-icon.png" alt="TableUs logo" width="320" />
